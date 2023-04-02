@@ -6,7 +6,7 @@ Bring Python to C# !!!
 >This library is a help library for [PythonNet](https://github.com/pythonnet/pythonnet), if you find any bugs, please report them. Also let me know if you have any comments
 
 ## Install via NuGet
-To install Atrob, run the following command in the Package Manager Console :
+To install PythonNet.Helper, run the following command in the Package Manager Console :
 ```powershell
 PM> Install-Package PythonNet.Helper
 ```
